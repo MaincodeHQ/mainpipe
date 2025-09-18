@@ -16,7 +16,7 @@ The following elements are **must-haves** of the submission, and a good submis
 4. **Inspectability** (e.g. histograms of length, lang scores, dup markers, PII hit-rates, drop reasons)
 5. **Conceptual plan for scaling**
 
-The brief intentionally leaves room for interpretation - your choices and rationale are an important part of the evaluation. There are existing open-source pipelines for the preparation of LLM training datasets, and we encourage you to draw inspiration from them for best practices.
+The brief intentionally leaves room for interpretation - your choices and rationale are an important part of the evaluation. There are existing open-source pipelines for the preparation of LLM training datasets, and we encourage you to draw inspiration from them for best practices. **We expect you to leverage and combine existing building blocks rather than implementing everything from scratch** - focus on thoughtful integration and customization of proven tools and libraries.
 
 Keep the solution self-contained, but feel free to explain what you would do differently at real scale. The take-home is designed to be completed in roughly four hours of focused work.
 
