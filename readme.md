@@ -60,7 +60,11 @@ To evaluate the performance, we evaluate your pipeline and the processed dataset
 
 ## **How to Submit**
 
-Send us a link to your repository along with your written report. Make sure the instructions in your README allow us to run the pipeline end-to-end without additional setup. If we like your submission, we will invite you to a 30-minute call for an in-depth discussion of your work with our technical team.
+Please follow the submission instructions provided to you via email. A complete submission includes a link to your repository, your processed dataset and your written report. 
+
+Make sure the instructions in your README allow us to run the pipeline end-to-end without additional setup. 
+
+If we like your submission, we will invite you to a 30-minute call for an in-depth discussion of your work with our technical team.
 
 ## **Closing Note**
 
