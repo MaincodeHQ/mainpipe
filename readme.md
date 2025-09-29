@@ -1,3 +1,5 @@
+![Mainpipe Logo](docs/images/Mainpipe.png)
+
 # **Mainpipe - Senior Data Engineer Take-Home**
 
 ## **Intro**
